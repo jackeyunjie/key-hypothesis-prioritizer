@@ -1,5 +1,5 @@
 a0de8977e53654aef1ba5e97afa281cd7ad056f4fb4e6ab5cf86d61dcc9d923a  ./.gitignore
-b45b2c6c138a702f510a7620bef1d77aea464817234a790f0f563ea710016167  ./README.md
+c4513965d3a58ba4fc1aa65a495dd915cd3de0a895ac055013cb52a9d2d53c49  ./README.md
 4e7205ce13160db4ef7e675cf20aa2725302e1e9cfc22120ab7d80b4493894ed  ./install.sh
 f8fcae568a6e55813fa5e317a423a266aeef7db71b2a9ef0c948c4ae49f3d180  ./scripts/skill_publisher.sh
 c2ec95f89f47e3c1f4f6fd81666d03a9df44bd58ec1f6063662fe9a8a8c5df19  ./skills/key-hypothesis-prioritizer/SKILL.md
