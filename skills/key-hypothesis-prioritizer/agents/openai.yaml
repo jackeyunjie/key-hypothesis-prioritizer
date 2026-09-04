@@ -1,0 +1,4 @@
+interface:
+  display_name: "关键假设排序"
+  short_description: "按阶段、前置关系和致命风险排序假设"
+  default_prompt: "Use $key-hypothesis-prioritizer to identify and rank the key hypotheses behind this project."
